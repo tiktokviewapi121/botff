@@ -1,0 +1,7 @@
+requests
+psutil
+PYjwt
+protobuf
+httpx
+urllib3
+pycryptodome
